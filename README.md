@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dinesh-ponnusamy
+- 👀 I’m interested in programming, web-development and automation.
+- 🌱 I’m currently working in wipro.
+- 💞️ I’m looking to work as a programmer.
+- 📫 you can reach me through mail-id dinesh1999.dna@gmail.com
